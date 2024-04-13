@@ -1,0 +1,23 @@
+table, td, th{
+    border: 1px solid #f1a93a;
+    border-radius: 8px;
+}
+table{
+   background-color: #f7ebd5;
+   border-spacing: 9px;
+}
+img{
+    width: 70px;
+    height: 70px;  
+}
+th{
+    background-color: #f5a73a;
+}
+td{
+    background-color:white;
+    text-align: center;
+}
+th, td{
+    padding: 10px;
+    text-align: center;
+}
